@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458784905757",
+    "project_id": "enotes-45d54",
+    "storage_bucket": "enotes-45d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458784905757:android:280c04f0963919ddcd04f4",
+        "android_client_info": {
+          "package_name": "com.tejas.enotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458784905757-9ku4mikcc7o1fgf9ann8tv2gcjit9gth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJQQNPwvPsTaSbSApv_olgfIrvd5zbNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458784905757-9ku4mikcc7o1fgf9ann8tv2gcjit9gth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
